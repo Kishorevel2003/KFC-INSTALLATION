@@ -1,0 +1,50 @@
+for install react:
+
+node -v -> node version
+
+create-react-app -> npm install -g create-react-app
+
+npx create-react-app (foldername)
+
+cd foldername
+
+npm start
+
+for importing bootstrap 
+
+in index.html -> head-1
+	      ->body-2
+
+in index.js ->import 'bootstrap/dist/css/bootstrap.min.css'
+
+for import react icons -> npm install react-icons
+
+npm install react-router-dom
+
+for installing redux:
+
+npm install redux
+
+npm install react-redux
+
+npm install @reduxjx/toolkit
+
+for instaling server:
+
+mkdir foldername
+
+cd foldername
+
+npm init
+
+folder->index.js
+
+npm install cors nodemon mongodb express
+
+package json -> "start":"nodemon index.js";
+
+for installing mongodb:
+
+try free->new project->project name->create prj->create cluster->mo,cloud->>user,passsword->create db user->connection method->drivers->
+network access->allow accessfrom anywhere->0.0.0.0/0->db->browse collection->
+add my own data->name,file->create..
